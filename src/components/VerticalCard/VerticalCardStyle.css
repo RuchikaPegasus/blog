@@ -1,0 +1,19 @@
+.warpper {
+  margin-right: "25px";
+  background-color: burlywood;
+  padding-bottom: "10px";
+  border-radius: "10px";
+}
+
+/* .wrapper:nth-child(3) {
+  margin-right: 0px;
+} */
+
+/* .wrapper {
+      flex: 1,
+      : "25px",
+
+      backgroundColor: "lightgrey",
+      paddingBottom: "10px",
+      borderRadius: "10px",
+    }, */

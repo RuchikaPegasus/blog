@@ -1,0 +1,11 @@
+.cardWrapper{
+    display: flex;
+}
+
+@media (max-width: 767px) {
+.cardWrapper{
+    display: block;
+
+}
+
+}

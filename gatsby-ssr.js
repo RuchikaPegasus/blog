@@ -5,3 +5,5 @@
  */
 
 // You can delete this file if you're not using it
+
+// Move Typography.js styles to the top of the head section so they're loaded first.
